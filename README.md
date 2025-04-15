@@ -1,7 +1,7 @@
 ![28984f7d31ed9946afc5a8074dc27237-ezgif com-resize](https://github.com/user-attachments/assets/66dc9747-11ef-442b-8786-28eaeabf8efc)
 
 
-# ୨୧ Sistema de Decoradores para Café
+# ୨୧ Sistema de Café - Decorator
 
 Este repositório contém uma implementação do padrão de design **Decorator** em Java para criar e modificar pedidos de café de forma modular. O padrão Decorator permite que as funcionalidades (como adicionar leite, chocolate, chantilly) sejam adicionadas ao café de forma flexível, sem a necessidade de alterar a classe base `CafeBase`. O código também inclui testes unitários com JUnit 5 para validar as funcionalidades.
 
